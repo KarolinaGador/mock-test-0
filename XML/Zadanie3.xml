@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<komunikacjamiejska>
+<transport>
+    <nazwa podłoże="tory" miasto="Krakow">Tramwaj</nazwa>
+    <numer popularność="duża" ilośćstacji="dużo">52</numer>
+    <stacjapoczatkowa miasto="Kraków" dzielnica="Mistrzejowice">Os.Piastów</stacjapoczatkowa>
+    <stacjakoncowa miasto="Kraków" dzielnica="Czerwone Maki">Czerwone Maki</stacjakoncowa>
+</transport>
+<transport>
+<nazwa podłoże="tory" miasto="Krakow">Tramwaj</nazwa>
+<numer popularność="duża" ilośćstacji="dużo">18</numer>
+<stacjapoczatkowa miasto="Kraków" dzielnica="Czerwone Maki" >Czerwone Maki</stacjapoczatkowa>
+<stacjakoncowa miasto="Kraków" dzielnica="Mistrzejowice" >Os.Piastow</stacjakoncowa>
+</transport>
+<transport>
+    <nazwa podłoże="tory" miasto="Krakow">Tramwaj</nazwa>
+    <numer popularność="duża" ilośćstacji="dużo">4</numer>
+    <stacjapoczatkowa miasto="Kraków" dzielnica="Bronowice">Bronowice Małe</stacjapoczatkowa>
+    <stacjakoncowa miasto="Kraków" dzielnica="Nowa Huta" >Kopiec Wandy</stacjakoncowa>
+</transport>
+<transport>
+<nazwa podłoże="tory" miasto="Krakow">Tramwaj</nazwa>
+<numer popularność="duża" ilośćstacji="mało">3</numer>
+<stacjapoczatkowa miasto="Kraków" dzielnica="Stare miasto">Dworzec Główny</stacjapoczatkowa>
+<stacjakoncowa miasto="Kraków" dzielnica="Stare miasto">Rynek Główny</stacjakoncowa>
+</transport>
+<transport>
+    <nazwa podłoże="droga" miasto="Krakow">Autobus</nazwa>
+    <Numer popularność="duża" ilośćstacji="dużo">139</Numer>
+    <stacjapoczatkowa miasto="Kraków" dzielnica="Nowa Huta" >Kombinat</stacjapoczatkowa>
+<stacjakoncowa miasto="Kraków" dzielnica="Krowodrza">Przybyszewskiego</stacjakoncowa>
+</transport>
+<transport>
+    <nazwa podłoże="droga" miasto="Krakow">Autobus</nazwa>
+    <Numer popularność="duża" ilośćstacji="mało">100</Numer>
+    <stacjapoczatkowa miasto="Kraków" dzielnica="Zwierzyniec">Kopiec Kościuszki</stacjapoczatkowa>
+<stacjakoncowa miasto="Kraków" dzielnica="Zwierzyniec">Plac Na Stawach</stacjakoncowa>
+</transport>
+</komunikacjamiejska>
