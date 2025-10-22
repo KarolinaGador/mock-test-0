@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<komunikacjamiejska>
+<transport>
+    <nazwa>Tramwaj</nazwa>
+    <numer>52</numer>
+    <stacjapoczatkowa>Os.Piastów</stacjapoczatkowa>
+    <stacjakoncowa>Czerwone Maki</stacjakoncowa>
+</transport>
+<transport>
+<nazwa>Tramwaj</nazwa>
+<numer>18</numer>
+<stacjapoczatkowa>Czerwone Maki</stacjapoczatkowa>
+<stacjakoncowa>Os.Piastow</stacjakoncowa>
+</transport>
+<transport>
+    <nazwa>Tramwaj</nazwa>
+    <numer>4</numer>
+    <stacjapoczatkowa>Bronowice Małe</stacjapoczatkowa>
+    <stacjakoncowa>Kopiec Wandy</stacjakoncowa>
+</transport>
+<transport>
+<nazwa>Tramwaj</nazwa>
+<numer>3</numer>
+<stacjapoczatkowa>Dworzec Główny</stacjapoczatkowa>
+<stacjakoncowa>Rynek Główny</stacjakoncowa>
+</transport>
+<transport>
+    <nazwa>Autobus</nazwa>
+    <Numer>139</Numer>
+    <stacjapoczatkowa>Kombinat</stacjapoczatkowa>
+<stacjakoncowa>Przybyszewskiego</stacjakoncowa>
+</transport>
+<transport>
+    <nazwa>Autobus</nazwa>
+    <Numer>100</Numer>
+    <stacjapoczatkowa>Kopiec Kościuszki</stacjapoczatkowa>
+<stacjakoncowa>Plac Na Stawach</stacjakoncowa>
+</transport>
+</komunikacjamiejska>
