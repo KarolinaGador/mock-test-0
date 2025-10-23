@@ -1,1 +1,53 @@
+[
+    {
+        "przystanek":"Ks. Meiera",
+        "linie": [317,503,169,193,128],
+        "czy_podwojny": true,
+        "strefa": 1,
+        "na_zadanie": false
+    },
 
+    {
+        "przystanek":"Muzeum armii krajowej",
+        "linie": [317],
+        "czy_podwojny": false,
+        "strefa": 1,
+        "na_zadanie": true
+    },
+
+    {
+        "przystanek":"Wegorzyce Warszawskie",
+        "linie": [307,257,260],
+        "czy_podwojny": false,
+        "strefa": 2,
+        "na_zadanie": false
+    },
+
+    {
+        "przystanek":"Bartnicza",
+        "linie": [111,161,211],
+        "czy_podwojny": false,
+        "strefa": 2,
+        "na_zadanie": true
+    },
+
+    {
+        "przystanek":"AGH/UJ",
+        "linie": [513,124,494,304,310,179,469,192,307,424],
+        "czy_podwojny":true,
+        "strefa": 1,
+        "na_zadanie":false
+    },
+
+    {
+        "przystanek": "Os Gotyk",
+        "linie": [503,168,366,424],
+        "czy_podwojny": false,
+        "strefa": 1,
+        "na_zadanie": false
+    }
+
+
+
+    
+]
