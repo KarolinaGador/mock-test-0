@@ -1,1 +1,16 @@
+{
+    "topic": "komunikacja miejska",
+    "place": "Krakow",
+    "types": ["autobus","tramwaj"],
+    "linie_metra": [12,50,4,35],
+    "ilosc_lini": 230,
+    "is_flying": false,
+    "cost_per_ride": 4.2,
+    "dlugosc_jazdy_na_UEK(min)":{
+        "317": 10,
+        "50": 17,
+        "128_182": 24,
+        "503": 17
+    }
 
+}
